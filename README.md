@@ -12,7 +12,7 @@ This repository provides:
 
 - A pipeline for simulating *glasses noise* on facial datasets  
 - Training and evaluation of:
-  - Vision Transformer (ViT)
+  - Vision Transformer (ViT-b/16)
   - Swin Transformer (Swin-T)
   - ResNet-50 with CBAM  
 - Experiments conducted on the RAF-DB dataset augmented with synthetic glasses noise
