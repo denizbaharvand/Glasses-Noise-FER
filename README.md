@@ -49,6 +49,8 @@ https://drive.google.com/drive/folders/1q5MoDEVzyRNTZ1OMCJ_oVAvPpiVUKCzE
 
 ---
 
+
+
 ## Usage
 
 To train the models, use:
@@ -57,6 +59,12 @@ python train-vit.py
 python train_Swin-t.py
 python train_resnet50_cbam.py
 
-ـ_
-ــ
+---
+
+## Requirements
+
+Install the required packages using:
+```bash
 pip install torch torchvision timm scikit-learn numpy pandas matplotlib seaborn
+
+
